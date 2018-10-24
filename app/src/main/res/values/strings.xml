@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cofee Ordering App</string>
+    <string name="coffeePrice"> Coffee: $2</string>
+    <string name="instruction"> Your name:</string>
+    <string name="task"> How many cups of coffee you want? One cup: $2</string>
+    <string name="orderButton"> ORDER!</string>
+    <string name="finalPrice"> $</string>
+</resources>
